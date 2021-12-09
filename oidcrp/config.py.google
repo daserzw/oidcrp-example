@@ -1,0 +1,16 @@
+# DEBUG
+DEBUG = True
+TRAP_BAD_REQUEST_ERRORS = True
+
+# SECRET_KEY
+## Insert your secret key
+## To generate a secret key in a python shell:
+## >>> import os
+## >>> os.urandom(24)
+SECRET_KEY = "\xce\xea'\xac\x84\xdb\n\xb7\x99|\xd1\x957\xf7\xfe0a\xb5\x14\x17*W\t2"
+
+# OpenID Connect Provider
+## Example: Google OP
+ISSUER = 'https://accounts.google.com'
+#ISSUER = ''
+

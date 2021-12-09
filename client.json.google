@@ -1,0 +1,7 @@
+{
+    "application_type": "web",
+    "redirect_uris": ["http://localhost:8090/code_flow_callback"],
+    "response_types": ["code", "token id_token"],
+    "client_id": "418098351618-oe81hh59kc4ju3d9tb1fr5lu5c4hoj29.apps.googleusercontent.com",
+    "client_secret": "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"
+}
